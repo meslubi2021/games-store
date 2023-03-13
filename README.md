@@ -47,15 +47,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Website built in Angular.
+<img src="./screenshot.png" alt="Desktop" width="768" /> <img src="./screenshot-mobile.png" alt="Mobile" height="500" />
 
-![Desktop](./screenshot.png)
-<img src="./screenshot-mobile.png" alt="Mobile" height="400" />
+The web application created in Angular, which simulates the interface of Play Station's online store, uses various technological resources to ensure a pleasant and intuitive browsing experience for users. To achieve this, the project uses the Angular framework, which allows creating reusable components, making the development more efficient and easier.
+
+In addition, the application has a modern and responsive layout created with HTML and CSS that adapts to different devices, from desktop computers to smartphones and tablets. The application's interface is inspired by the Play Station online store, with a similar organization of elements and the same color palette.
 
 
 ### Built With
 
-![Angular][Angular]
+![Angular][Angular] ![TailwindCSS][Tailwind]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +88,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <div align="center">
-  <sub>Built with ❤︎ by <a href="https://github.com/josafamarengo">Josafá Marengo</a>
+  <sub>Built with ❤︎ by <a href="https://josafa.com.br">Josafá Marengo</a>
 </div>
 
 
